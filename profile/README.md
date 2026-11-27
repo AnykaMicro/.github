@@ -2,6 +2,10 @@
 
 **Anyka Open Source** is Anyka's official home on GitHub for SDKs, tools and applications for the Anyka SoC family (AK3918 and others). Official releases are published here as they become available. The community projects we track are listed in **[awesome-anyka](https://github.com/Anyka-Micro/awesome-anyka)**, credited to their authors.
 
+**Development tools**
+
+- [Celestia Developer Documentation](https://github.com/AnykaMicro/celestia-docs) provides setup, build, and porting guides for developing applications on Anyka SoCs.
+
 **Get started**
 
 - Open firmware for supported cameras → [OpenIPC/firmware](https://github.com/OpenIPC/firmware)
